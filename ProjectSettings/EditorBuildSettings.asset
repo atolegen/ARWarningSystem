@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/MixedRealityToolkit.Examples/Demos/EyeTracking/Scenes/EyeTrackingDemo-00-RootScene.unity
+    guid: 27c3fbe0128089f48994cdc6af8668fc
+  - enabled: 0
+    path: Assets/MixedRealityToolkit.Examples/Demos/EyeTracking/Scenes/EyeTrackingDemo-04-TargetPositioning.unity
+    guid: 91ded1f5ef2ae854ba4ac94eca7a2494
+  - enabled: 0
+    path: Assets/MixedRealityToolkit.Examples/Demos/EyeTracking/Scenes/EyeTrackingDemo-02-TargetSelection.unity
+    guid: 55643f7e4eceb734784192b162f565e0
+  - enabled: 1
+    path: Assets/Scenes/YoloDetection.unity
+    guid: 6e511bc868e671f4391dbe6b9adeed25
+  - enabled: 1
+    path: Assets/Scenes/mrtkscenewitheyetracking.unity
+    guid: c3ae2c0949f417744a87e5cd66bbf2ca
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/MixedRealityToolkit.Examples/Demos/SpatialAwareness/Scenes/SpatialAwarenessMeshDemo.unity
+    guid: 9db181581e617224e962601f062da844
+  - enabled: 0
+    path: Assets/Scenes/raycastScene.unity
+    guid: a05608f3e46d17346b9a380ea1aae0f5
+  m_configObjects: {}
